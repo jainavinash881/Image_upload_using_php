@@ -38,7 +38,7 @@ echo "<script>alert('Data not inserted');</script>";
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
-		<title>PHP GURUKUL | Upload Images</title>
+		<title>Avinash | Upload Images</title>
 		<meta name="generator" content="Bootply" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -47,7 +47,7 @@ echo "<script>alert('Data not inserted');</script>";
 	<body>
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
 	<div class="navbar-header">
-        <a class="navbar-brand" rel="home" href="https://phpgurukul.com/">PHPGURUKUL</a>
+        <a class="navbar-brand" rel="home" href="https://phpgurukul.com/">Upload Image</a>
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 		<span class="sr-only">Toggle navigation</span>
 		<span class="icon-bar"></span>
